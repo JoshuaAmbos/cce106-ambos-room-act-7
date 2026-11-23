@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987671369051",
+    "project_id": "ambos-student-app",
+    "storage_bucket": "ambos-student-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987671369051:android:a84ecd599699084366f67e",
+        "android_client_info": {
+          "package_name": "com.example.ambos_room7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRZsWBxpyAYSF9eCAI1ARv8dNIN683K2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
