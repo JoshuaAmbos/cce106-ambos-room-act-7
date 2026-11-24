@@ -80,7 +80,7 @@ class DashboardPage extends StatelessWidget {
             onPressed: () {
               Navigator.of(context).push(
                 MaterialPageRoute(
-                  builder: (context) => const StudentCrudPage(),fl
+                  builder: (context) => const StudentCrudPage(),
                 ),
               );
             },
